@@ -1,0 +1,1610 @@
+{
+  "state": "success",
+  "code": "200",
+  "msg": "操作成功",
+  "result": {
+      "110000": {
+          "1002": {
+              "pkid": 1002,
+              "parentCode": "0",
+              "dictCode": "1002",
+              "dictName": "数据状态",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 2323,
+                      "parentCode": "1002",
+                      "dictCode": "100200000001",
+                      "dictName": "有效(审核通过）",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2324,
+                      "parentCode": "1002",
+                      "dictCode": "100200000002",
+                      "dictName": "无效(逻辑删除)",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "1006": {
+              "pkid": 1006,
+              "parentCode": "0",
+              "dictCode": "1006",
+              "dictName": "与业主关系",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 2369,
+                      "parentCode": "1006",
+                      "dictCode": "100600000020",
+                      "dictName": "父子",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2370,
+                      "parentCode": "1006",
+                      "dictCode": "100600000025",
+                      "dictName": "父女",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2371,
+                      "parentCode": "1006",
+                      "dictCode": "100600000030",
+                      "dictName": "母子",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2372,
+                      "parentCode": "1006",
+                      "dictCode": "100600000035",
+                      "dictName": "母女",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2373,
+                      "parentCode": "1006",
+                      "dictCode": "100600000040",
+                      "dictName": "父母",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2374,
+                      "parentCode": "1006",
+                      "dictCode": "100600000045",
+                      "dictName": "兄弟姐妹",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2375,
+                      "parentCode": "1006",
+                      "dictCode": "100600000055",
+                      "dictName": "代理人",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2160,
+                      "parentCode": "1006",
+                      "dictCode": "100600000060",
+                      "dictName": "担保人",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2119,
+                      "parentCode": "1006",
+                      "dictCode": "100600000070",
+                      "dictName": "管家",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2120,
+                      "parentCode": "1006",
+                      "dictCode": "100600000075",
+                      "dictName": "保姆",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 11513,
+                      "parentCode": "1006",
+                      "dictCode": "100699999999",
+                      "dictName": "其他",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2367,
+                      "parentCode": "1006",
+                      "dictCode": "100600000001",
+                      "dictName": "本人",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2368,
+                      "parentCode": "1006",
+                      "dictCode": "100600000010",
+                      "dictName": "夫妻",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "1007": {
+              "pkid": 1007,
+              "parentCode": "0",
+              "dictCode": "1007",
+              "dictName": "证件类型",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 2377,
+                      "parentCode": "1007",
+                      "dictCode": "100700000001",
+                      "dictName": "居民身份证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2378,
+                      "parentCode": "1007",
+                      "dictCode": "100700000002",
+                      "dictName": "护照",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2379,
+                      "parentCode": "1007",
+                      "dictCode": "100700000003",
+                      "dictName": "来往大陆通行证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2380,
+                      "parentCode": "1007",
+                      "dictCode": "100700000004",
+                      "dictName": "香港居民身份证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2381,
+                      "parentCode": "1007",
+                      "dictCode": "100700000005",
+                      "dictName": "澳门居民身份证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2382,
+                      "parentCode": "1007",
+                      "dictCode": "100700000006",
+                      "dictName": "军（警）身份证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2383,
+                      "parentCode": "1007",
+                      "dictCode": "100700000007",
+                      "dictName": "工作居住证或暂住证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2228,
+                      "parentCode": "1007",
+                      "dictCode": "100700000008",
+                      "dictName": "台胞证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2229,
+                      "parentCode": "1007",
+                      "dictCode": "100700000009",
+                      "dictName": "旅行证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2230,
+                      "parentCode": "1007",
+                      "dictCode": "100700000010",
+                      "dictName": "军官证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2231,
+                      "parentCode": "1007",
+                      "dictCode": "100700000011",
+                      "dictName": "军官退休证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2232,
+                      "parentCode": "1007",
+                      "dictCode": "100700000012",
+                      "dictName": "警官证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2233,
+                      "parentCode": "1007",
+                      "dictCode": "100700000013",
+                      "dictName": "警官退休证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2234,
+                      "parentCode": "1007",
+                      "dictCode": "100700000014",
+                      "dictName": "文职干部证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2235,
+                      "parentCode": "1007",
+                      "dictCode": "100700000015",
+                      "dictName": "文职干部退休证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2236,
+                      "parentCode": "1007",
+                      "dictCode": "100700000016",
+                      "dictName": "士兵证",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "1023": {
+              "pkid": 1023,
+              "parentCode": "0",
+              "dictCode": "1023",
+              "dictName": "是否",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 2430,
+                      "parentCode": "1023",
+                      "dictCode": "102300000001",
+                      "dictName": "是",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2431,
+                      "parentCode": "1023",
+                      "dictCode": "102300000002",
+                      "dictName": "否",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "1097": {
+              "pkid": 1097,
+              "parentCode": "0",
+              "dictCode": "1097",
+              "dictName": "性别",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 2338,
+                      "parentCode": "1097",
+                      "dictCode": "109700000001",
+                      "dictName": "女",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 2337,
+                      "parentCode": "1097",
+                      "dictCode": "109700000002",
+                      "dictName": "男",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 11828,
+                      "parentCode": "1097",
+                      "dictCode": "109799999999",
+                      "dictName": "未知",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "3011": {
+              "pkid": 6165,
+              "parentCode": "0",
+              "dictCode": "3011",
+              "dictName": "佣金结算条件节点1",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 6184,
+                      "parentCode": "3011",
+                      "dictCode": "301100000001",
+                      "dictName": "网签",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 6185,
+                      "parentCode": "3011",
+                      "dictCode": "301100000003",
+                      "dictName": "草签",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 12170,
+                      "parentCode": "3011",
+                      "dictCode": "301100000005",
+                      "dictName": "认购",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "3012": {
+              "pkid": 6166,
+              "parentCode": "0",
+              "dictCode": "3012",
+              "dictName": "佣金结算条件节点2",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 6186,
+                      "parentCode": "3012",
+                      "dictCode": "301200000001",
+                      "dictName": "客户付全款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 6187,
+                      "parentCode": "3012",
+                      "dictCode": "301200000003",
+                      "dictName": "结全佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 6188,
+                      "parentCode": "3012",
+                      "dictCode": "301200000005",
+                      "dictName": "付多少结多少",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 6189,
+                      "parentCode": "3012",
+                      "dictCode": "301200000007",
+                      "dictName": "固定比例结佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6001": {
+              "pkid": 13585,
+              "parentCode": "0",
+              "dictCode": "6001",
+              "dictName": "签约状态",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13586,
+                      "parentCode": "6001",
+                      "dictCode": "600100000001",
+                      "dictName": "草签",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13587,
+                      "parentCode": "6001",
+                      "dictCode": "600100000002",
+                      "dictName": "网签",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13588,
+                      "parentCode": "6001",
+                      "dictCode": "600100000003",
+                      "dictName": "已结案",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13589,
+                      "parentCode": "6001",
+                      "dictCode": "600100000004",
+                      "dictName": "已解除",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6002": {
+              "pkid": 13590,
+              "parentCode": "0",
+              "dictCode": "6002",
+              "dictName": "客户付款方式",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13591,
+                      "parentCode": "6002",
+                      "dictCode": "600200000001",
+                      "dictName": "贷款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13592,
+                      "parentCode": "6002",
+                      "dictCode": "600200000002",
+                      "dictName": "一次性全款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13593,
+                      "parentCode": "6002",
+                      "dictCode": "600200000003",
+                      "dictName": "分期付款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6003": {
+              "pkid": 13594,
+              "parentCode": "0",
+              "dictCode": "6003",
+              "dictName": "签约确认单状态",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13595,
+                      "parentCode": "6003",
+                      "dictCode": "600300000001",
+                      "dictName": "待确认",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13596,
+                      "parentCode": "6003",
+                      "dictCode": "600300000002",
+                      "dictName": "已收回",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13597,
+                      "parentCode": "6003",
+                      "dictCode": "600300000003",
+                      "dictName": "待修改",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13598,
+                      "parentCode": "6003",
+                      "dictCode": "600300000004",
+                      "dictName": "待上传",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6004": {
+              "pkid": 13599,
+              "parentCode": "0",
+              "dictCode": "6004",
+              "dictName": "电商状态",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13600,
+                      "parentCode": "6004",
+                      "dictCode": "600400000001",
+                      "dictName": "有效",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13602,
+                      "parentCode": "6004",
+                      "dictCode": "600400000002",
+                      "dictName": "已草签",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13603,
+                      "parentCode": "6004",
+                      "dictCode": "600400000003",
+                      "dictName": "已解除",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6005": {
+              "pkid": 13604,
+              "parentCode": "0",
+              "dictCode": "6005",
+              "dictName": "发票状态",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13605,
+                      "parentCode": "6005",
+                      "dictCode": "600500000001",
+                      "dictName": "申请中",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13606,
+                      "parentCode": "6005",
+                      "dictCode": "600500000002",
+                      "dictName": "未开票",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13607,
+                      "parentCode": "6005",
+                      "dictCode": "600500000003",
+                      "dictName": "已开票",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6006": {
+              "pkid": 13608,
+              "parentCode": "0",
+              "dictCode": "6006",
+              "dictName": "交易节点",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13609,
+                      "parentCode": "6006",
+                      "dictCode": "600600000001",
+                      "dictName": "认购",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13610,
+                      "parentCode": "6006",
+                      "dictCode": "600600000002",
+                      "dictName": "签约",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13611,
+                      "parentCode": "6006",
+                      "dictCode": "600600000003",
+                      "dictName": "其他",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6007": {
+              "pkid": 13612,
+              "parentCode": "0",
+              "dictCode": "6007",
+              "dictName": "发票类型",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13613,
+                      "parentCode": "6007",
+                      "dictCode": "600700000001",
+                      "dictName": "普通发票",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13614,
+                      "parentCode": "6007",
+                      "dictCode": "600700000002",
+                      "dictName": "增值税专用发票",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6008": {
+              "pkid": 13615,
+              "parentCode": "0",
+              "dictCode": "6008",
+              "dictName": "领取方式",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13616,
+                      "parentCode": "6008",
+                      "dictCode": "600800000001",
+                      "dictName": "邮寄",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13617,
+                      "parentCode": "6008",
+                      "dictCode": "600800000002",
+                      "dictName": "自取",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6009": {
+              "pkid": 13618,
+              "parentCode": "0",
+              "dictCode": "6009",
+              "dictName": "开票项目",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13619,
+                      "parentCode": "6009",
+                      "dictCode": "600900000001",
+                      "dictName": "服务费",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13620,
+                      "parentCode": "6009",
+                      "dictCode": "600900000002",
+                      "dictName": "代理费",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6010": {
+              "pkid": 13621,
+              "parentCode": "0",
+              "dictCode": "6010",
+              "dictName": "审核状态",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13622,
+                      "parentCode": "6010",
+                      "dictCode": "601000000001",
+                      "dictName": "待审核",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13623,
+                      "parentCode": "6010",
+                      "dictCode": "601000000002",
+                      "dictName": "通过",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13624,
+                      "parentCode": "6010",
+                      "dictCode": "601000000003",
+                      "dictName": "驳回",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13625,
+                      "parentCode": "6010",
+                      "dictCode": "601000000004",
+                      "dictName": "审核中",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6011": {
+              "pkid": 13626,
+              "parentCode": "0",
+              "dictCode": "6011",
+              "dictName": "付款状态",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13627,
+                      "parentCode": "6011",
+                      "dictCode": "601100000001",
+                      "dictName": "未付款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13628,
+                      "parentCode": "6011",
+                      "dictCode": "601100000002",
+                      "dictName": "已付款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6012": {
+              "pkid": 13629,
+              "parentCode": "0",
+              "dictCode": "6012",
+              "dictName": "款项性质",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13632,
+                      "parentCode": "6012",
+                      "dictCode": "601200000001",
+                      "dictName": "电商款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13631,
+                      "parentCode": "6012",
+                      "dictCode": "601200000002",
+                      "dictName": "佣金",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6013": {
+              "pkid": 13633,
+              "parentCode": "0",
+              "dictCode": "6013",
+              "dictName": "收付款公司",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13634,
+                      "parentCode": "6013",
+                      "dictCode": "601300000001",
+                      "dictName": "丽兹行",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13635,
+                      "parentCode": "6013",
+                      "dictCode": "601300000002",
+                      "dictName": "云房易邦",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6014": {
+              "pkid": 13636,
+              "parentCode": "0",
+              "dictCode": "6014",
+              "dictName": "坏账类型",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13637,
+                      "parentCode": "6014",
+                      "dictCode": "601400000001",
+                      "dictName": "调整应收佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13638,
+                      "parentCode": "6014",
+                      "dictCode": "601400000002",
+                      "dictName": "开发商奖励金",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13639,
+                      "parentCode": "6014",
+                      "dictCode": "601400000003",
+                      "dictName": "解除签约",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13640,
+                      "parentCode": "6014",
+                      "dictCode": "601400000004",
+                      "dictName": "修改成交价",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13641,
+                      "parentCode": "6014",
+                      "dictCode": "601400000005",
+                      "dictName": "其他",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6015": {
+              "pkid": 13642,
+              "parentCode": "0",
+              "dictCode": "6015",
+              "dictName": "坏账原因",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13643,
+                      "parentCode": "6015",
+                      "dictCode": "601500000001",
+                      "dictName": "资金问题",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13644,
+                      "parentCode": "6015",
+                      "dictCode": "601500000002",
+                      "dictName": "政策影响",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13645,
+                      "parentCode": "6015",
+                      "dictCode": "601500000003",
+                      "dictName": "资格问题",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13646,
+                      "parentCode": "6015",
+                      "dictCode": "601500000004",
+                      "dictName": "换项目",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13647,
+                      "parentCode": "6015",
+                      "dictCode": "601500000005",
+                      "dictName": "贷款问题",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13648,
+                      "parentCode": "6015",
+                      "dictCode": "601500000006",
+                      "dictName": "不想买了",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13649,
+                      "parentCode": "6015",
+                      "dictCode": "601500000007",
+                      "dictName": "录入错误",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13650,
+                      "parentCode": "6015",
+                      "dictCode": "601500000008",
+                      "dictName": "成交价变化",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13651,
+                      "parentCode": "6015",
+                      "dictCode": "601500000009",
+                      "dictName": "结佣点位变化",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13652,
+                      "parentCode": "6015",
+                      "dictCode": "601500000010",
+                      "dictName": "打折",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13653,
+                      "parentCode": "6015",
+                      "dictCode": "601500000011",
+                      "dictName": "其他",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6016": {
+              "pkid": 13802,
+              "parentCode": "0",
+              "dictCode": "6016",
+              "dictName": "附件来源",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13803,
+                      "parentCode": "6016",
+                      "dictCode": "601600000001",
+                      "dictName": "签约确认单",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13804,
+                      "parentCode": "6016",
+                      "dictCode": "601600000002",
+                      "dictName": "申请坏账",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13805,
+                      "parentCode": "6016",
+                      "dictCode": "601600000003",
+                      "dictName": "申请退佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13806,
+                      "parentCode": "6016",
+                      "dictCode": "601600000004",
+                      "dictName": "解除签约",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13808,
+                      "parentCode": "6016",
+                      "dictCode": "601600000005",
+                      "dictName": "申请结佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13809,
+                      "parentCode": "6016",
+                      "dictCode": "601600000006",
+                      "dictName": "电商收款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13810,
+                      "parentCode": "6016",
+                      "dictCode": "601600000007",
+                      "dictName": "解除电商",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13811,
+                      "parentCode": "6016",
+                      "dictCode": "601600000008",
+                      "dictName": "电商退款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13812,
+                      "parentCode": "6016",
+                      "dictCode": "601600000009",
+                      "dictName": "申请转移支付",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13813,
+                      "parentCode": "6016",
+                      "dictCode": "601600000010",
+                      "dictName": "转移支付发票",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 14040,
+                      "parentCode": "6016",
+                      "dictCode": "601600000011",
+                      "dictName": "电商开票",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6017": {
+              "pkid": 13814,
+              "parentCode": "0",
+              "dictCode": "6017",
+              "dictName": "收款来源",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13817,
+                      "parentCode": "6017",
+                      "dictCode": "601700000001",
+                      "dictName": "电商收款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13818,
+                      "parentCode": "6017",
+                      "dictCode": "601700000002",
+                      "dictName": "结佣申请",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13819,
+                      "parentCode": "6017",
+                      "dictCode": "601700000003",
+                      "dictName": "奖励金",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6018": {
+              "pkid": 13815,
+              "parentCode": "0",
+              "dictCode": "6018",
+              "dictName": "付款来源",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13820,
+                      "parentCode": "6018",
+                      "dictCode": "601800000001",
+                      "dictName": "佣金",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13821,
+                      "parentCode": "6018",
+                      "dictCode": "601800000002",
+                      "dictName": "电商退款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13822,
+                      "parentCode": "6018",
+                      "dictCode": "601800000003",
+                      "dictName": "电商转佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13823,
+                      "parentCode": "6018",
+                      "dictCode": "601800000004",
+                      "dictName": "转移支付",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6019": {
+              "pkid": 13816,
+              "parentCode": "0",
+              "dictCode": "6019",
+              "dictName": "审批流类型",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13824,
+                      "parentCode": "6019",
+                      "dictCode": "601900000001",
+                      "dictName": "坏账",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13825,
+                      "parentCode": "6019",
+                      "dictCode": "601900000002",
+                      "dictName": "退佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13826,
+                      "parentCode": "6019",
+                      "dictCode": "601900000003",
+                      "dictName": "电商退款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13827,
+                      "parentCode": "6019",
+                      "dictCode": "601900000004",
+                      "dictName": "结佣申请",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13828,
+                      "parentCode": "6019",
+                      "dictCode": "601900000005",
+                      "dictName": "转移支付申请",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13829,
+                      "parentCode": "6019",
+                      "dictCode": "601900000006",
+                      "dictName": "收款审核",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13830,
+                      "parentCode": "6019",
+                      "dictCode": "601900000007",
+                      "dictName": "付款审核",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13831,
+                      "parentCode": "6019",
+                      "dictCode": "601900000008",
+                      "dictName": "签约确认单审核",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6020": {
+              "pkid": 13887,
+              "parentCode": "0",
+              "dictCode": "6020",
+              "dictName": "合同类型",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13888,
+                      "parentCode": "6020",
+                      "dictCode": "602000000001",
+                      "dictName": "一手",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13889,
+                      "parentCode": "6020",
+                      "dictCode": "602000000002",
+                      "dictName": "二手买卖",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13890,
+                      "parentCode": "6020",
+                      "dictCode": "602000000003",
+                      "dictName": "二手租赁",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13891,
+                      "parentCode": "6020",
+                      "dictCode": "602000000004",
+                      "dictName": "金融",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6021": {
+              "pkid": 13956,
+              "parentCode": "0",
+              "dictCode": "6021",
+              "dictName": "签约类型",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 13957,
+                      "parentCode": "6021",
+                      "dictCode": "602100000001",
+                      "dictName": "草签合同",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 13958,
+                      "parentCode": "6021",
+                      "dictCode": "602100000002",
+                      "dictName": "电商合同",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6022": {
+              "pkid": 14007,
+              "parentCode": "0",
+              "dictCode": "6022",
+              "dictName": "电商付款方式",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 14008,
+                      "parentCode": "6022",
+                      "dictCode": "602200000001",
+                      "dictName": "银行转账",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 14009,
+                      "parentCode": "6022",
+                      "dictCode": "602200000002",
+                      "dictName": "POS刷卡",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6023": {
+              "pkid": 14013,
+              "parentCode": "0",
+              "dictCode": "6023",
+              "dictName": "业绩类型",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 14017,
+                      "parentCode": "6023",
+                      "dictCode": "602300000001",
+                      "dictName": "公司业绩",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 14018,
+                      "parentCode": "6023",
+                      "dictCode": "602300000002",
+                      "dictName": "运营业绩",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6024": {
+              "pkid": 14014,
+              "parentCode": "0",
+              "dictCode": "6024",
+              "dictName": "坏账场景",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 14015,
+                      "parentCode": "6024",
+                      "dictCode": "602400000001",
+                      "dictName": "手动",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 14016,
+                      "parentCode": "6024",
+                      "dictCode": "602400000002",
+                      "dictName": "系统",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          },
+          "6025": {
+              "pkid": 14034,
+              "parentCode": "0",
+              "dictCode": "6025",
+              "dictName": "退佣方式",
+              "remaker": null,
+              "displayOrder": null,
+              "childDict": [
+                  {
+                      "pkid": 14035,
+                      "parentCode": "6025",
+                      "dictCode": "602500000001",
+                      "dictName": "直接退款",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  },
+                  {
+                      "pkid": 14036,
+                      "parentCode": "6025",
+                      "dictCode": "602500000002",
+                      "dictName": "用于下次结佣",
+                      "remaker": null,
+                      "displayOrder": null,
+                      "childDict": null
+                  }
+              ]
+          }
+      },
+      "rootAuths": {
+          "addProject": "1",
+          "se_proj_proj": "1",
+          "se_proj_contract": "1",
+          "se_proj": "1",
+          "se_proj_customer": "1",
+          "se_house": "1",
+          "se_oversea_house": "1",
+          "se_customer": "1",
+          "se_cust": "1",
+          "se_sign": "1",
+          "se_one_contract": "1",
+          "se_finance": "1"
+      },
+      "userinfo": {
+          "userId": 125228,
+          "userName": "xueb5",
+          "employeeId": 123926,
+          "employeeName": "薛冰",
+          "employeeSN": "30002821",
+          "sex": "Female",
+          "mobile": "13718231238",
+          "telephone": null,
+          "email": "xuebing@landzestate.com",
+          "headImgUrl": "group1/M00/07/0E/rBAOKFcMybeEIjP4AAAAAIgZBdA848.jpg",
+          "status": "1",
+          "lastLoginIp": null,
+          "defaultLocale": "HL016",
+          "casticket": "ST-8727-Uw7deeN1YwoKfaC6v1Yh-tpower.lizihang.com",
+          "currentOrgId": 18835,
+          "currentOrgName": "渠道渠道中心项目部A组",
+          "currentOrgLevel": 6,
+          "currentPositionId": null,
+          "currentOrgBizLine": "OT",
+          "currentOrgType": "yy6",
+          "currentPositionName": "项目经理",
+          "currentPositionCode": "069",
+          "currentPositionLevel": null,
+          "currentOrgPosition": 1,
+          "currentRoleType": "015",
+          "currentRoleCode": "069",
+          "currentRoleId": null,
+          "wholeOrgName": "丽兹行集团_北京丽兹行房地产投资顾问有限公司_渠道_渠道渠道中心_渠道渠道中心项目部_渠道渠道中心项目部A组",
+          "currentCity": "110000",
+          "userPWD": "MTE1MTIwMjVGODkxQzc3MzUyODRFNjk0RUZERjY4QTY=",
+          "userRoles": [
+              {
+                  "orgType": "yy6",
+                  "roleType": "015",
+                  "city": "110000",
+                  "positionName": "项目经理",
+                  "positionId": "2623",
+                  "positionCode": "069",
+                  "orgShortName": "渠道渠道中心项目部A组",
+                  "orgLevel": 6,
+                  "businessLine": "OT",
+                  "isMaster": 1,
+                  "orgPosition": 1,
+                  "orgId": 18835,
+                  "wholeOrgId": "/1/18246/18818/18249/18263/18835",
+                  "wholeOrgName": "丽兹行集团_北京丽兹行房地产投资顾问有限公司_渠道_渠道渠道中心_渠道渠道中心项目部_渠道渠道中心项目部A组"
+              }
+          ],
+          "loginTime": null,
+          "wholeOrgId": "/1/18246/18818/18249/18263/18835"
+      }
+  }
+}
